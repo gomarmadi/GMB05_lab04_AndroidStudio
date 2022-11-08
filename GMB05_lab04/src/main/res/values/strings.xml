@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">GMB05_lab04</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="name_program">Образовательное приложение по физике</string>
+
+    <string name="resource_directory">file:///android_asset/HTML/</string>
+
+    <string name="action_settings">Выход</string>
+    <string name="view">Перейти к чтению…</string>
+    <string name="fullsizeFont">Большой шрифт</string>
+    <string name="bonus">Бонус</string>
+    <string name="lit">Таблицы</string>
+    <string name="autor">Brainius</string>
+
+    <string name="additional">Посмотреть</string>
+    <string name="error">Ошибка(</string>
+
+    <string name="prism_break">http://brainius.kz/index.html</string>
+    <string name="spy_soft">https://youtu.be/6FRonW4oSao</string>
+    <string name="securitylab">https://youtu.be/CmSiBO3Vd6E</string>
+    <string name="laws">ЗАКОНЫ</string>
+    <string name="laws_kz_l1">РК: оПДиИЗ</string>
+    <string name="laws_ru_l1">РФ: оПД</string>
+    <string name="communicate">Обратная связь</string>
+    <string name="send_mail">Написать отзыв</string>
+
+    <string name="email">madi.pvl@bk.ru</string>
+    <string name="subject">Предложения по программе</string>
+    <string name="textmail">Здравствуйте!</string>
+    <string name="sending_letter">Посылка письма автору</string>
+    <string name="no_installed_email_client">Нет установленного почтового клиента</string>
+
+    <string name="search_hint">Поиск</string>
+    <string name="of">из</string>
+    <string name="not_found">увы…</string>
+
+    <string name="mysearch">ВКЛ. ПОИСК</string>
+
+</resources>

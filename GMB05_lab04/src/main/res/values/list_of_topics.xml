@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">    Содержание</string>
+    <string name="lec01">01. Механика</string>
+    <string name="lec11">02. Молекулярная физика</string>
+    <string name="lec15">03. Термодинамика</string>
+    <string name="prog">Темы</string>
+
+</resources>
